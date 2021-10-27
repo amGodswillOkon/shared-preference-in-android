@@ -8,7 +8,7 @@ This is a basic overview on how to perform a CRUD (Create, Read, Update and Dele
 ### Screenshot
 
 
-![Image](https://postimg.cc/7bpX6849)
+![Image]https://postimg.cc/7bpX6849
 
 
 ```
