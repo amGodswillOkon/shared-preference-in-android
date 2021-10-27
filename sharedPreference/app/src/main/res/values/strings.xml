@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+    <string name="input_value">create data (enter key to update/delete) </string>
+    <string name="no_data_yet_in_shared_preference">Create data and click Read button to see it here</string>
+    <string name="read">Read</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="sharedinfo">Data Created with key</string>
+    <string name="data_deleted">Data deleted successfully!</string>
+    <string name="Data_updated">Data updated successfully!</string>
+</resources>
